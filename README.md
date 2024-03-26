@@ -9,4 +9,5 @@ Pasos para ejecutar proyecto
 ## produccion
 1. Ejecutar ``` npm  run build ```
 2. Tomar la carpeta ``` dist  ``` y desplegarla
-3. Abrir el proyecto en: ``` localhost:3000```                      
+3. Abrir el proyecto en: ``` http:// localhost:3000```   
+4. para recuperar un proyecto: `git checkout -- .`
